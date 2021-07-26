@@ -1,0 +1,6 @@
+D:\Dwitya\Data Amikom\Project\Kripto\Keyboard_rotation\keyrot_lib\keyrot_lib\bin\Debug\keyrot_lib.dll
+D:\Dwitya\Data Amikom\Project\Kripto\Keyboard_rotation\keyrot_lib\keyrot_lib\bin\Debug\keyrot_lib.pdb
+D:\Dwitya\Data Amikom\Project\Kripto\Keyboard_rotation\keyrot_lib\keyrot_lib\obj\Debug\keyrot_lib.csprojResolveAssemblyReference.cache
+D:\Dwitya\Data Amikom\Project\Kripto\Keyboard_rotation\keyrot_lib\keyrot_lib\obj\Debug\keyrot_lib.csproj.CoreCompileInputs.cache
+D:\Dwitya\Data Amikom\Project\Kripto\Keyboard_rotation\keyrot_lib\keyrot_lib\obj\Debug\keyrot_lib.dll
+D:\Dwitya\Data Amikom\Project\Kripto\Keyboard_rotation\keyrot_lib\keyrot_lib\obj\Debug\keyrot_lib.pdb
